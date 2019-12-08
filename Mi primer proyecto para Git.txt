@@ -1,1 +1,2 @@
 Mi primer proyecto para Git
+teniendo ganas de aprender
